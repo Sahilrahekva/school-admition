@@ -1,3 +1,3 @@
 # school-admition
-this is for school admition website
+this is for school admition website.
 author = sahil rahekvar
